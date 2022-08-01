@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ronald</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldpalacios&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldpalacios" /> </p>
 
-- 💬 **Soy Estudiante de programacion full stack en MERN**
+- 💬 **Programador full stack en MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
