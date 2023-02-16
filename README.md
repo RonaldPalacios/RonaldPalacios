@@ -43,4 +43,17 @@
 <br />
 <br />
 
+
+ ### - What i do
+
+
+<br />
+
+<p align="center">
+   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
+   </p>
+   
+   
+<br />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldpalacios&" alt="ronaldpalacios" /></p>
