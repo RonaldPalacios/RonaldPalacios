@@ -19,12 +19,8 @@
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldpalacios&show_icons=true&locale=en&layout=compact" alt="ronaldpalacios" /></p>
    </p>
  
-   
-   <br />
 <br />
 <br />
-<br />
-<!--  -->
 
 
 ### - Languages and Tools...
@@ -44,6 +40,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldpalacios&show_icons=true&locale=en&layout=compact" alt="ronaldpalacios" /></p>
+<br />
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldpalacios&" alt="ronaldpalacios" /></p>
