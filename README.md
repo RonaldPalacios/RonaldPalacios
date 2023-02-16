@@ -55,5 +55,17 @@
    
    
 <br />
+<h2 align="center">🤝 Support</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldpalacios&" alt="ronaldpalacios" /></p>
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Venezuelan</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
