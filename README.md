@@ -17,7 +17,8 @@
 <br />
 <br />
 <br />
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldpalacios&show_icons=true&locale=en&layout=compact" alt="ronaldpalacios" /></p>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ronaldpalacios&theme=react&line_height=40&hide=css"/> </a>
+  
    </p>
  
 <br />
