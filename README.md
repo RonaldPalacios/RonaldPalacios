@@ -41,6 +41,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
    <img src=	https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/devices/cisco.svg alt="cisco" style="vertical-align:top; margin:4px">
+ <img src=	https://raw.githubusercontent.com/jimbobbennett/ColoredBadges/main/svg/devices/pc.svg alt="cisco" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
