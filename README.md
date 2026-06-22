@@ -1,4 +1,4 @@
-<img src="C:/Users/ronald.palacios/Downloads/Ronald-profile-banner%20(1).svg" width="100%">
+<img src="C:/Users/ronald.palacios/Downloads/Ronald-profile-banner%20.svg" width="100%">
 
 <div align="left">
   <kbd><b>MERN Stack</b></kbd>
