@@ -23,7 +23,7 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 ### 🛠️ Languages and Tools
 **Frontend & Backend**
-![HTML5]([https://shields.io](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white))
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://shields.io)
 ![TypeScript](https://shields.io)
 ![React](https://shields.io)
