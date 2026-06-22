@@ -23,7 +23,7 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 ### 🛠️ Languages and Tools
 **Frontend & Backend**
-![HTML5](https://shields.io)
+![HTML5]([https://shields.io](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white))
 ![JavaScript](https://shields.io)
 ![TypeScript](https://shields.io)
 ![React](https://shields.io)
@@ -53,8 +53,8 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Project One** | Brief summary of what the app does. | React, TypeScript, MongoDB | [View Repo](https://github.com) |
-| **Backend API** | Scalable backend server or automation script. | Python, PostgreSQL / MySQL | [View Repo](https://github.com) |
+| **Project One** | Brief summary of what the app does. | React, TypeScript, MongoDB |
+| **Backend API** | Scalable backend server or automation script. | Python, PostgreSQL / MySQL |
 
 ---
 
