@@ -57,17 +57,6 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 ---
 
----
-
-### 📁 Featured Projects
-
-| Project Name | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Project One** | Brief summary of what the app does. | React, TypeScript, MongoDB |
-| **Backend API** | Scalable backend server or automation script. | Python, PostgreSQL / MySQL |
-
----
-
 ### 🤝 Connect with Me
 <div align="left">
   <a href="https://github.com/RonaldPalacios/" target="_blank">
