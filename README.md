@@ -1,12 +1,7 @@
 # Hi 👋, I'm Ronald Palacios
 
 <div align="left">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="MERN Stack">
-  </a>
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="Python Developer">
-  </a>
+  <kbd><b>MERN Stack</b></kbd>
 </div>
 
 ---
