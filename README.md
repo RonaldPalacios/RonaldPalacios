@@ -22,7 +22,6 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 ---
 
 ### 🛠️ Languages and Tools
-
 **Frontend & Backend**
 ![HTML5](https://shields.io)
 ![JavaScript](https://shields.io)
