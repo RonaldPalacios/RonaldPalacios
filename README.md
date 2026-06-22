@@ -1,4 +1,4 @@
-<img src="C:/Users/ronald.palacios/Downloads/Ronald-profile-banner%20.svg" width="100%">
+# Hi 👋, I'm Ronald Palacios
 
 <div align="left">
   <kbd><b>MERN Stack</b></kbd>
