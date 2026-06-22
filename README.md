@@ -31,8 +31,8 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 **Databases (SQL & NoSQL)** </br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&labelColor=4479A1&logoColor=FFF)
 
 **Automation & Scripting**
 ![Python](https://shields.io)
