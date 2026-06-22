@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate Full-Stack Developer dedicated to building efficient, scalable web applications and optimizing backend architectures. I specialize in the **MERN Stack** and **Python**, utilizing **TypeScript** for robust type-safe code, **pnpm** for high-performance package management, and fluent management of both **SQL** and **NoSQL** databases.
+I am a passionate Full-Stack Developer dedicated to building efficient, scalable web applications and optimizing backend architectures. I specialize in the **MERN Stack**, utilizing **TypeScript** for robust type-safe code, **pnpm** for high-performance package management, and fluent management of both **SQL** and **NoSQL** databases.
 
 - 🔭 **Currently working on:** Advanced web applications, modern frontend solutions, and cloud integrations.
 - 🌱 **Learning & improving:** Deepening my expertise in **TypeScript**, complex database optimization, and cloud infrastructure (AWS/GCP).
