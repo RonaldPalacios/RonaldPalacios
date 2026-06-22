@@ -17,7 +17,7 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 - 🔭 **Currently working on:** Advanced web applications, modern frontend solutions, and cloud integrations.
 - 🌱 **Learning & improving:** Deepening my expertise in **TypeScript**, complex database optimization, and cloud infrastructure (AWS/GCP).
 - 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, Python scripting, and database schema design.
-- ✉️ **How to reach me:** [ronaldpalacios1214@gmail.com](mailto:ronaldpalacios1214@gmail.com)
+- ✉️ **How to reach me:** [rpalacioso12@outlook.com](mailto:rpalacioso12@outlook.com)
 
 ---
 
@@ -70,11 +70,11 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 ### 🤝 Connect with Me
 <div align="left">
-  <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
+  <a href="https://github.com/RonaldPalacios/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/ronald-%EB%A1%9C%EB%82%A0%EB%93%9C-palacios-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4%EC%8A%A4-311a6b155/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" alt="LinkedIn" />
   </a>
 </div>
 
