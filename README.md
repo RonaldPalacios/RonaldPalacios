@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</div>
+<img src="file:///C:/Users/ronald.palacios/Downloads/Ronald-profile-banner%20(1).svg" width="100%">
 
 <div align="left">
   <kbd><b>MERN Stack</b></kbd>
