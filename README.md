@@ -29,8 +29,8 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 ![React](https://shields.io/badge/-react-4377cb?logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-**Databases (SQL & NoSQL)**
-![MongoDB](https://shields.io)
+**Databases (SQL & NoSQL)** </br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://shields.io)
 ![MySQL](https://shields.io)
 
