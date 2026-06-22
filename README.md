@@ -80,10 +80,6 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 <br />
 
-<div align="center">
-  <img src="https://vercel.app" alt="Ronald's GitHub Stats" />
-</div>
-
 ---
 <p align="center">Made with ❤ in Venezuela | Stay awesome! ⚡</p>
 
