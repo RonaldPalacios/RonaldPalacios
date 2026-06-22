@@ -3,7 +3,6 @@
 <div align="left">
   <kbd><b>MERN Stack</b></kbd>
 </div>
-
 ---
 
 ### 🚀 About Me
