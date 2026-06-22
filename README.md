@@ -1,19 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ronald</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldpalacios&label=Profile%20views&color=0e75b6&style=flat" alt="ronaldpalacios" /> </p>
+# Hi 👋, I'm Ronald Palacios
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ronald1214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronald1214" height="30" width="40" /></a>
-<a href="https://instagram.com/palron12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="palron12" height="30" width="40" /></a>
-<a href="https://discord.gg/Ronald#4226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ronald#4226" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="MERN Stack">
+  </a>
+  <a href="https://github.com">
+    <img src="https://shields.io" alt="Python Developer">
+  </a>
+</div>
 
+---
 
- <p align="center">
-  <h4>🚀  MERN Stack Developer || 🚀 Python Developer </br>
-  🚀 Power Apps and Power Automate</h4>
-   <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />  
-      <br />
+### 🚀 About Me
+I am a passionate Full-Stack Developer dedicated to building efficient, scalable web applications and optimizing backend architectures. I specialize in the **MERN Stack** and **Python**, utilizing **TypeScript** for robust type-safe code, **pnpm** for high-performance package management, and fluent management of both **SQL** and **NoSQL** databases.
+
+- 🔭 **Currently working on:** Advanced web applications, modern frontend solutions, and cloud integrations.
+- 🌱 **Learning & improving:** Deepening my expertise in **TypeScript**, complex database optimization, and cloud infrastructure (AWS/GCP).
+- 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, Python scripting, and database schema design.
+- ✉️ **How to reach me:** [ronaldpalacios1214@gmail.com](mailto:ronaldpalacios1214@gmail.com)
+
+---
+
+### 🛠️ Languages and Tools
+
+**Frontend & Backend**
+![HTML5](https://shields.io)
+![JavaScript](https://shields.io)
+![TypeScript](https://shields.io)
+![React](https://shields.io)
+![NodeJS](https://shields.io)
+
+**Databases (SQL & NoSQL)**
+![MongoDB](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+
+**Automation & Scripting**
+![Python](https://shields.io)
+![Bash](https://shields.io)
+
+**Cloud & Package Managers**
+![AWS](https://shields.io)
+![GCP](https://shields.io)
+![pnpm](https://shields.io)
+
+**Tools & Environment**
+![VS Code](https://shields.io)
+![Chrome](https://shields.io)
+
+---
+
+### 📁 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Project One** | Brief summary of what the app does. | React, TypeScript, MongoDB | [View Repo](https://github.com) |
+| **Backend API** | Scalable backend server or automation script. | Python, PostgreSQL / MySQL | [View Repo](https://github.com) |
+
+---
+
+### 🤝 Connect with Me
+<div align="left">
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://vercel.app" alt="Ronald's GitHub Stats" />
+</div>
+
+---
+<p align="center">Made with ❤ in Venezuela | Stay awesome! ⚡</p>
+
 <br />
 <br />
 <br />
