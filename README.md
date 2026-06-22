@@ -1,4 +1,6 @@
-# Hi 👋, I'm Ronald Palacios
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
 
 <div align="left">
   <kbd><b>MERN Stack</b></kbd>
