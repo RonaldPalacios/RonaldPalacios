@@ -10,7 +10,7 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 
 - 🔭 **Currently working on:** Advanced web applications, modern frontend solutions, and cloud integrations.
 - 🌱 **Learning & improving:** Deepening my expertise in **TypeScript**, complex database optimization, and cloud infrastructure (AWS/GCP).
-- 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, Python scripting, and database schema design.
+- 💬 **Ask me about:** JavaScript/TypeScript, React, Node.js, and database schema design.
 - ✉️ **How to reach me:** [rpalacioso12@outlook.com](mailto:rpalacioso12@outlook.com)
 
 ---
