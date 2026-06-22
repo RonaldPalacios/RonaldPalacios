@@ -57,15 +57,9 @@ I am a passionate Full-Stack Developer dedicated to building efficient, scalable
 ---
 
 ### 🤝 Connect with Me
-<div align="left">
-  <a href="https://github.com/RonaldPalacios/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/ronald-%EB%A1%9C%EB%82%A0%EB%93%9C-palacios-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4%EC%8A%A4-311a6b155/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL" alt="LinkedIn" />
-  </a>
-</div>
 
+🌐 [LinkedIn](https://www.linkedin.com/in/ronald-%EB%A1%9C%EB%82%A0%EB%93%9C-palacios-%ED%8C%94%EB%9D%BC%EC%8B%9C%EC%98%A4%EC%8A%A4-311a6b155/) | 💻 [GitHub](https://github.com/RonaldPalacios)
+ 
 <br />
 
 ---
